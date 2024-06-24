@@ -1,4 +1,4 @@
 trollamor-ycgttd
 ================
-
-You Can't Go Through The Door. A Ludum Dare game made to troll @_Beyamor. Made in Game Maker 8. Uploading for posterity, and karma.
+Cryptic and simple puzzle game that hides the rules. Created for Ludum Dare, and submitted to Pirate Kart V: 2012
+Created in GameMaker 8
