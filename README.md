@@ -1,4 +1,4 @@
-trollamor-ycgttd
+You Can't Go Through The Door!
 ================
 Cryptic and simple puzzle game that hides the rules. 
 
